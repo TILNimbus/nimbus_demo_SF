@@ -1,0 +1,8 @@
+payment_type	weight	cum_weight
+ccard - visa	100	100
+ccard - mcard	100	200
+ccard - amex	75	275
+ccard - discover	50	325
+ccard - jbc	25	350
+app - iphone	400	750
+app - android	250	1000

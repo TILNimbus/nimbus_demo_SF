@@ -1,0 +1,8 @@
+id	first_name	last_name	email	gender	phone_type	phone_num	cc_type	cc_num	member_type	dob
+1	MImmo	Dollin	ydollin0@ucla.edu	female	iphone	705-697-5440	mastercard	5222339123281522	day pass	1989-10-22 00:00:00 +0000
+2	Boothe	Faircloth	bfaircloth1@weather.com	male	iphone	250-725-9082	jcb	3564860972168230	snap	1970-02-20 00:00:00 +0000
+3	Vivyan	Nevitt	vnevitt2@shop-pro.jp	female	iphone	670-704-7615	jcb	3558467656542678	jcha	1979-05-21 00:00:00 +0000
+4	Caspar	Soares	csoares3@facebook.com	male	iphone	779-149-7683	jcb	3553769720068324	annual member	1970-02-20 00:00:00 +0000
+5	Artus	Tatton	atatton4@gravatar.com	male	android	490-960-0228	jcb	3536074863124311	snap	1974-07-10 00:00:00 +0000
+6	Reine	McKenna	rmckenna5@skyrock.com	male	iphone	186-538-8732	china-unionpay	560222461441111126	annual member	1979-11-07 00:00:00 +0000
+7	Catlaina	Drury	cdrury6@php.net	female	android	412-806-0385	diners-club-enroute	201716371516988	single ride	1981-05-24 00:00:00 +0000
