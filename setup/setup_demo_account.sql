@@ -17,7 +17,7 @@
 
 -- IMPORTANT!!!
 -- edit the following line to set the password for John and Jane
-set pwd = '*** your password goes here ***';
+--set pwd = '*** your password goes here ***';
 
 use role accountadmin;
 set account_locator = (select current_account());
